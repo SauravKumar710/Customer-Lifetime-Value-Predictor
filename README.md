@@ -5,10 +5,10 @@ This project is a part of the SEMESTER 3 project at [Vellore Institute of Techno
 #### -- Project Status: [Completed]
 
 ## Project Objective
-This project aims to build various Machine & Deep Learning Models that will predict C.L.V by learning from the previous data. Furthermore, choosing the most appropriate model based on its accuracy score.
+The main goal of this project is to create Machine & Deep Learning models that can predict Customer Lifetime Value (CLV) by learning from previous data, and then select the most accurate model.
 
 
-### Methods Used
+### The following methods were employed:
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
@@ -34,11 +34,7 @@ We built various Machine & Deep Learning Models that will predict C.L.V by learn
 
 ## Needs of this project
 
-- Frontend developers
-- Data exploration/descriptive statistics
-- Data processing/cleaning
-- Statistical modeling
-- Writeup/reporting
+To successfully carry out this project, we require the expertise of Frontend developers, Data exploration/descriptive statistics, Data processing/cleaning, Statistical modeling, and Writeup/reporting.
 
 **Team Leads (Contacts) : [Saurav Kumar](https://github.com/SauravKumar710])**
 
