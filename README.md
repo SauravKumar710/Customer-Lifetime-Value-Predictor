@@ -1,5 +1,5 @@
 
-# CUSTOMER LIFETIME VALUE PREDICTOR  :chart:	
+# CUSTOMER LIFETIME VALUE PREDICTOR	
 This project is a part of the SEMESTER 3 project at [Vellore Institute of Technology, Vellore](https://vit.ac.in/).  
 
 #### -- Project Status: [Completed]
